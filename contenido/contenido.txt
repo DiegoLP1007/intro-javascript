@@ -4,4 +4,10 @@ CONTENIDO
 	TIPOS DE DATOS	
 	STRING
 	NUMBER	
+
+ELEMENTOS DE ESTRUCTURA 
+Operadores: comparacion, logica, control
+
+
+1) Instalar node js
 	
